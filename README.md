@@ -1,1 +1,1 @@
-# game4everyone.com
+# game4everyone.github.com
